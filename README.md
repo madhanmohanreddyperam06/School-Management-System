@@ -230,8 +230,8 @@ If you have any questions or need help:
 - Open an issue on GitHub
 - Check the documentation
 - Review existing issues for similar problems
--Mobile : 9110395993
--EmailID : madhanmohanreddyperam06@gmail.com
+- Mobile : 9110395993
+- EmailID : madhanmohanreddyperam06@gmail.com
 
 ## 🙏 Acknowledgments
 
